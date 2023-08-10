@@ -14,4 +14,4 @@ for i in 1:4
     pcolor(x, x, Q)
 end
 tight_layout()
-savefig("fock.png")
+savefig("results/fock.png")

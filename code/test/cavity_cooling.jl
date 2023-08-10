@@ -91,4 +91,4 @@ ylabel(L"sigma")
 
 tight_layout();
 
-
+savefig("results/cavity_cooling.svg")

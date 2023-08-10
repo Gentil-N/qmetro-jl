@@ -20,4 +20,4 @@ using PyPlot
 contourf(samplepoints(b_x),tout,density,50)
 xlabel("x")
 ylabel("Time")
-savefig("gross_pitaevskii.png")
+savefig("results/gross_pitaevskii.png")

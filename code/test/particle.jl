@@ -15,4 +15,4 @@ end
 xlabel("Position")
 ylabel("Energy")
 tight_layout()
-savefig("particle.svg")
+savefig("results/particle.svg")
